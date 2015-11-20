@@ -2,6 +2,8 @@
 ###  * updated by bajian 15-11-20
      * fix: iscancellable
      * edit: padding and btn color
+#####new
+![MaterialAlertDialog](https://github.com/bajian/MaterialAlertDialog/blob/master/preview/device-2015-11-20-221257.png)
 
 [中文(Blog)](http://kyleduo.com/?p=611)
 
